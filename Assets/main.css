@@ -295,7 +295,7 @@ span {
 
 .underline {
     height: 5px;
-    width: 500px;
+    width: 200px;
     background: rgb(130, 215, 230);
     margin: 0 auto;
     margin-top: 1rem;
@@ -607,6 +607,9 @@ position: relative;
         align-items:center;
         justify-content: center;
         padding:1rem ;
+    }
+    .underline {
+        Width :150px;
     }
 }
 
