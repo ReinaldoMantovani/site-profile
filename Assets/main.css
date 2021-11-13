@@ -590,7 +590,7 @@ position: relative;
 
 
 
-@media  screen and (max-width:400px ) {
+@media  screen and (max-width:300px ) {
     .navbar-wrapper.change {
         position: fixed!important;
         padding-top: 0!important;
